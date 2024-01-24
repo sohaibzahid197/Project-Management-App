@@ -30,7 +30,7 @@ app.use(cors({
   credentials: true,
 }));
 
-const DB_URL = "mongodb+srv://tanojinnamuri1999:Tanoj%231431@cluster0.8fzstuz.mongodb.net/lab";  // For Connection With MongoDB
+const DB_URL = "mongodb+srv://sohaibzahid198:Sohaib%2314@cluster0.8fzstuz.mongodb.net/lab";  // For Connection With MongoDB
 mongoose.connect(DB_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
